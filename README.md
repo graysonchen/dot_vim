@@ -1,3 +1,5 @@
+git clone http://github.com/cgg5207/dot_vim.git ~/.vim
+
 ln -s ~/.vim/.vimrc ~/.vimrc
 
 
